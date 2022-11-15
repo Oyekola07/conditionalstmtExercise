@@ -8,4 +8,4 @@ document.getElementById('name3').innerHTML='This is your nickame';
 else if(surname == 'Adeleke')
 document.getElementById('name4').innerHTML='Welcome Adeleke!'
 else
-window.alert('Oops! This is an invalid name')
+window.alert('Oops! Name not found')
