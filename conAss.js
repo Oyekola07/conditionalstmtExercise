@@ -1,6 +1,6 @@
 let surname = 'Adeleke'
 if(surname == 'Ademola')
-document.getElementById('name1').innerHTML='This is not your first Name';
+document.getElementById('name1').innerHTML='This is not your Surname';
 else if(surname == 'Nurudeen')
 document.getElementById('name2').innerHTML='You supplied your middle name';
 else if(surname == 'Jackson')
